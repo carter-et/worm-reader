@@ -1,5 +1,5 @@
 """
-A majority of the code scene here was created by jocelynh.
+A minority* of the code scene here was created by jocelynh.
 https://github.com/redoctopus/Worm-TFIDF/blob/master/scrape_site.py
 
 My changes were to take the text and print it into a word document while keeping formatting
